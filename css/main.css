@@ -1,0 +1,19 @@
+table, tr, th, td {
+	border: solid black 1px;
+	border-collapse:collapse;
+	text-align:center;
+}
+.success_note {
+	color: green;
+}
+.table_header {
+  color: navy;
+  background-color: #A8A8A8;
+}
+h1 {
+  font-family: "Helvetica Neue";
+  font-size: 30px;
+  font-variant: small-caps;
+  font-weight: 700;
+  line-height: 30px;
+} 
